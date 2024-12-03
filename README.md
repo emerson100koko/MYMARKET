@@ -12,7 +12,11 @@ Visualizar carrinho: Confira os produtos adicionados e o total.
 Finalizar compra: Confirme o pedido e veja o resumo.
 
 🛠️ Tecnologias
+
 Java
+
 Programação Orientada a Objetos (POO)
+
 Estruturas de dados simples (Listas)
+
 Sinta-se à vontade para explorar o código e enviar sugestões!
